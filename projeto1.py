@@ -1,5 +1,6 @@
 n = int(input('tamanho da matriz:' ))
 
+
 numero = 0
 linha = [0] * n
 matriz_A = [linha] * n
